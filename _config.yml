@@ -1,9 +1,4 @@
-theme: minima
-
 title: AI²DAT
-author:
-  name: 
-  email: 
   
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -17,5 +12,7 @@ header_pages:
   - people.md
   - projects.md
 
-# Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+theme: minima
+
+plugins:
+ - jekyll-feed
