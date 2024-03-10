@@ -13,6 +13,3 @@ header_pages:
   - projects.md
 
 theme: minima
-
-plugins:
- - jekyll-feed
