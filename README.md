@@ -8,7 +8,9 @@ While medical imaging technology produces a vast amount of information, only a f
 To achieve this goal, we are focusing on these main research areas: 
 
 - Learning efficient, (self)supervised representations (and embeddings) for medical (imaging) data
+
 - Developing predictive, in part biophysically informed, models for disease assessment and individualized therapy
+
 - Designing algorithms and models that leverage the rich, synergistic information from multimodal medical data
 
 Collaborating with our clinical partners at the TUM School of Medicine and Health, we prioritize research on two key neurological diseases: Multiple Sclerosis and Gliomas.
