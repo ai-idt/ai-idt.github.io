@@ -13,7 +13,7 @@ To achieve this goal, we are focusing on three main research areas:
 
 - Designing algorithms and models that leverage the rich, synergistic information from multimodal medical data
 
-Together with our partners at the [TUM](https://www.tum.de) and [TUM Klinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
+Together with our scientific and clinical partners at [TUM](https://www.tum.de) and [TUM Klinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
 
 Committed to open science, we strive to make all of our developed tools available publicly. We further contribute to the advancement of the field by actively participating in leading challenges like [BraTS](https://synapse.org/brats2023) and workshops like [BrainLes](https://www.brainlesion-workshop.org/).
 
