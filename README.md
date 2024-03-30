@@ -3,7 +3,7 @@
 **AI for Image-Guided Diagnosis and Therapy**  
 **Prof. Dr. Benedikt Wiestler**
 
-While medical imaging produces a vast amount of information, only a fraction is currently used to inform clinical decisions. We bridge this gap by developing advanced algorithms and strategies that make this wealth of data accessible and actionable for clinicians.
+While medical imaging generates a vast amount of information, only a fraction is currently used to inform clinical decisions. We bridge this gap by developing advanced algorithms and strategies that make this wealth of data accessible and actionable for clinicians.
 
 To achieve this goal, we are focusing on three main research areas: 
 
@@ -13,8 +13,8 @@ To achieve this goal, we are focusing on three main research areas:
 
 - Designing algorithms and models that leverage the rich, synergistic information from multimodal medical data
 
-Together with our partners at the [TUM](https://www.tum.de] and [TUM Klinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
+Together with our partners at the [TUM](https://www.tum.de) and [TUM Klinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
 
 Committed to open science, we strive to make all of our developed tools available publicly. We further contribute to the advancement of the field by actively participating in leading challenges like [BraTS](https://synapse.org/brats2023) and workshops like [BrainLes](https://www.brainlesion-workshop.org/).
 
-We are supported by the [SFB-824](https://www.sfb824.de/de/index.php), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](https://mh.tum.de/de/Talentf%C3%B6rderung/Clinician_Scientist_Programm), [ZD.B](https://zentrum-digitalisierung.bayern/), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html), [DFG](https://www.uniklinik-freiburg.de/radiomics.html) and [NIH](https://grants.nih.gov/).
+We are supported by the [SFB-824](https://sfb824.med.tum.de/en), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](https://mh.tum.de/de/Talentf%C3%B6rderung/Clinician_Scientist_Programm), [ZD.B](https://www.bayern-innovativ.de), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html), [DFG](https://www.uniklinik-freiburg.de/radiomics.html) and [NIH](https://grants.nih.gov/).
