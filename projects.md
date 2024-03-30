@@ -11,7 +11,7 @@ LST-AI is a publicly available UNet ensemble that segments inflammatory white ma
 [[Paper]](https://www.medrxiv.org/content/10.1101/2023.11.23.23298966v2) | [[Code]](https://github.com/CompImg/LST-AI)
 
 
-# INR
+# INR for Multi-Contrast Super-Resolution
 ![NIF](/assets/NIF.png)
 Combining different views of multi-contrast scans into high-resolution isotropic 3D scans is challenging due to the lack of a large training cohort, which calls for a subject-specific framework. This work proposes a novel solution to this problem leveraging Implicit Neural Representations (INR). Our proposed INR jointly learns two different contrasts of complementary views in a continuous spatial function and benefits from exchanging anatomical information between them.
 
