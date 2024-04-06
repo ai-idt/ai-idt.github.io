@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 permalink: /publications/
 ---
 
@@ -8,7 +8,7 @@ permalink: /publications/
 
 **Varma A**, Shit S, Prabhakar C, **Scholz D**, **Li H**, Menze BH, Rueckert D, **Wiestler B**. [VariViT: A Vision Transformer for Variable Image Sizes](https://openreview.net/forum?id=uoRbMNoZ7w). MIDL, 2024 
 
-Meissen F, Breuer S, Knolle M, Buyx A, Mueller R, Kaissis G, **Wiestler B**\*, Rueckert D\*. [(Predictable) performance bias in unsupervised anomaly detection ](https://pubmed.ncbi.nlm.nih.gov/38335791/). EBioMedicine, 2024
+Meissen F, Breuer S, Knolle M, Buyx A, Mueller R, Kaissis G, **Wiestler B**\*, Rueckert D\*. [(Predictable) performance bias in unsupervised anomaly detection](https://pubmed.ncbi.nlm.nih.gov/38335791/). EBioMedicine, 2024
 
 McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**. [Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17). MICCAI, 2023
 
