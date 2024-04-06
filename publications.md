@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 permalink: /publications/
 ---
-## Selected Publications
 
 **Scholz D**, Erdur A, Buchner J, Peeken JC, Rueckert D, **Wiestler B**. [Imbalance-aware loss functions improve medical image classification](https://openreview.net/forum?id=5Oiqw76ube). MIDL, 2024
 
