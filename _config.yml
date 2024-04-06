@@ -11,5 +11,6 @@ header_pages:
   - news.md
   - people.md
   - projects.md
+  - publications.md
 
 theme: minima
