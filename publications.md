@@ -7,11 +7,13 @@ permalink: /publications/
 
 **Scholz D**, Erdur A, Buchner J, Peeken JC, Rueckert D, **Wiestler B**. [Imbalance-aware loss functions improve medical image classification](https://openreview.net/forum?id=5Oiqw76ube). MIDL, 2024
 
-**Varma A**, Shit S, Prabhakar C, **Scholz D**, Li H, Menze BH, Rueckert D, **Wiestler B**. [VariViT: A Vision Transformer for Variable Image Sizes](https://openreview.net/forum?id=uoRbMNoZ7w). MIDL, 2024 
+**Varma A**, Shit S, Prabhakar C, **Scholz D**, **Li H**, Menze BH, Rueckert D, **Wiestler B**. [VariViT: A Vision Transformer for Variable Image Sizes](https://openreview.net/forum?id=uoRbMNoZ7w). MIDL, 2024 
 
-McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**. [Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17). MICCAI 2023
+Meissen F, Breuer S, Knolle M, Buyx A, Mueller R, Kaissis G, **Wiestler B**\*, Rueckert D\*. [(Predictable) performance bias in unsupervised anomaly detection ](https://pubmed.ncbi.nlm.nih.gov/38335791/). EBioMedicine, 2024
 
-Prabhakar C, **Li H**, Paetzold J, **Loehr T**, Niu C, Mühlau M, Rueckert D, **Wiestler B**\*, Menze BH\*. [Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_22). MICCAI 2023
+McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**. [Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17). MICCAI, 2023
+
+Prabhakar C, **Li H**, Paetzold J, **Loehr T**, Niu C, Mühlau M, Rueckert D, **Wiestler B**\*, Menze BH\*. [Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_22). MICCAI, 2023
 
 Prabhakar C, **Li H**, Yang J, Shit S, **Wiestler B**\*, Menze BH\*. [ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations](https://openreview.net/forum?id=2Aoi0VKPOWT). MIDL, 2023
 
@@ -31,13 +33,13 @@ Paprottka KJ, Kleiner S, Preibisch C, **Kofler F**, Schmidt-Graf F, Delbridge C,
 
 **Finck T**, Schinz D, Grundl L, Eisawy R, Yigitsoy M, Moosbauer J, Pfister F, **Wiestler B**. [Automated Pathology Detection and Patient Triage in Routinely Acquired Head Computed Tomography Scans](https://pubmed.ncbi.nlm.nih.gov/33813571/). Investigative Radiology, 2021
 
-**Baur C**\*, **Wiestler B**\*, Mühlau M, Zimmer C, Navab N, Albarqouni S. [Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/). Radiology AI, 2021
+Baur C\*, **Wiestler B**\*, Mühlau M, Zimmer C, Navab N, Albarqouni S. [Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/). Radiology AI, 2021
 
 **Metz MC**, **Molina-Romero M**, **Lipkova J**, Gempt J, Liesche-Starnecker F, **Eichinger P**, Grundl L, Menze BH, Combs SE, Zimmer C, **Wiestler B**. [Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://pubmed.ncbi.nlm.nih.gov/32204544/). Cancers, 2020
 
 **Li H**, Paetzold J, Sekuboyina A, **Kofler F**, Zhang J, Kirschke JS, **Wiestler B**, Menze BH. [DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://arxiv.org/abs/1904.12894). MICCAI, 2019
 
-**Baur C**, **Wiestler B**, Albarqouni S, Navab N. [Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation](http://proceedings.mlr.press/v102/baur19a.html). MIDL, 2019
+Baur C, **Wiestler B**, Albarqouni S, Navab N. [Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation](http://proceedings.mlr.press/v102/baur19a.html). MIDL, 2019
 
 **Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**. [Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448). Radiology, 2019
 
@@ -47,16 +49,12 @@ Paprottka KJ, Kleiner S, Preibisch C, **Kofler F**, Schmidt-Graf F, Delbridge C,
 
 **Zhang H**, **Alberts E**, Pongratz V, Mühlau M, Zimmer C, **Wiestler B**, **Eichinger P**. [Predicting conversion from clinically isolated syndrome to multiple sclerosis–An imaging-based machine learning approach](https://www.sciencedirect.com/science/article/pii/S2213158218303413). NeuroImage: Clinical, 2018
 
-Baur C, **Wiestler B**, Albarqouni S, Navab N. [Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images](https://arxiv.org/abs/1804.04488). arXiv:1804.04488, 2018
+Baur C, **Wiestler B**, Albarqouni S, Navab N. [Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images](https://link.springer.com/chapter/10.1007/978-3-030-11723-8_16). BrainLes @ MICCAI, 2018
 
 **Eichinger P**, Wiestler H, **Zhang H**, Biberacher V, Kirschke JS, Zimmer C, Mühlau M, **Wiestler B**. [A novel imaging technique for better detecting new lesions in multiple sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/28756606). J Neurol, 2017
 
 **Eichinger P**, **Alberts E**, Delbridge C, Trebeschi S, Valentinitsch A, Bette S, Huber T, Gempt J, Meyer B, Schlegel J, Zimmer C, Kirschke JS, Menze BH, **Wiestler B**. [Diffusion tensor image features predict IDH genotype in newly diagnosed WHO grade II/III gliomas](https://www.nature.com/articles/s41598-017-13679-4). Scientific Reports, 2017
 
-**Alberts E**, Tetteh G, Trebeschi S, Bieth M, Valentinitsch A, **Wiestler B**, Zimmer C, Menze BH. [Multi-modal Image Classification Using Low-Dimensional Texture Features for Genomic Brain Tumor Recognition](https://link.springer.com/chapter/10.1007/978-3-319-67675-3_18). MICGen @ MICCAI 2017
-
-Menze BH, Van Leemput K, Lashkari D, Riklin-Raviv T, Geremia E, Alberts E, Gruber P, Wegener S, Weber MA, Székely G, Ayache N, Golland P. [A Generative Probabilistic Model and Discriminative Extensions for Brain Lesion Segmentation - With Application to Tumor and Stroke](https://www.ncbi.nlm.nih.gov/pubmed/26599702). IEEE Trans. Med. Imaging, 2016
+**Alberts E**, Tetteh G, Trebeschi S, Bieth M, Valentinitsch A, **Wiestler B**, Zimmer C, Menze BH. [Multi-modal Image Classification Using Low-Dimensional Texture Features for Genomic Brain Tumor Recognition](https://link.springer.com/chapter/10.1007/978-3-319-67675-3_18). MICGen @ MICCAI, 2017
 
 Osswald M, Jung E, Sahm F, Solecki G, Venkataramani V, Blaes J, Weil S, Horstmann H, **Wiestler B**, Syed M, Huang L, Ratliff M, Karimian Jazi K, Kurz FT, Schmenger T, Lemke D, Gömmel M, Pauli M, Liao Y, Häring P, Pusch S, Herl V, Steinhäuser C, Krunic D, Jarahian M, Miletic H, Berghoff AS, Griesbeck O, Kalamakis G, Garaschuk O, Preusser M, Weiss S, Liu H, Heiland S, Platten M, Huber PE, Kuner T, von Deimling A, Wick W, Winkler F. [Brain tumour cells interconnect to a functional and resistant network](https://www.ncbi.nlm.nih.gov/pubmed/26536111). Nature, 2015
-
-Menze BH, Jakab A, Bauer S, Kalpathy-Cramer J, Farahani K, Kirby J, Burren Y, Porz N, Slotboom J, Wiest R, Lanczi L, Gerstner E, Weber MA, Arbel T, Avants BB, Ayache N, Buendia P, Collins DL, Cordier N, Corso JJ, Criminisi A, Das T, Delingette H, Demiralp Ç, Durst CR, Dojat M, Doyle S, Festa J, Forbes F, Geremia E, Glocker B, Golland P, Guo X, Hamamci A, Iftekharuddin KM, Jena R, John NM, Konukoglu E, Lashkari D, Mariz JA, Meier R, Pereira S, Precup D, Price SJ, Raviv TR, Reza SM, Ryan M, Sarikaya D, Schwartz L, Shin HC, Shotton J, Silva CA, Sousa N, Subbanna NK, Szekely G, Taylor TJ, Thomas OM, Tustison NJ, Unal G, Vasseur F, Wintermark M, Ye DH, Zhao L, Zhao B, Zikic D, Prastawa M, Reyes M, Van Leemput K. [The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)](https://www.ncbi.nlm.nih.gov/pubmed/25494501). IEEE Trans. Med. Imaging, 2015
