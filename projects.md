@@ -3,6 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# VariViT
+![VariViT](/assets/VariViT.png)
+Vision Transformers (ViTs) have emerged as the state-of-the-art architecture in representation learning, leveraging self-attention mechanisms to excel in various tasks. ViTs split images into fixed-size patches, constraining them to a predefined size and necessitating pre-processing steps like resizing, padding, or cropping. This poses challenges in medical imaging, particularly with irregularly shaped structures like tumors. To address this, we propose VariViT, an improved ViT model crafted to handle variable image sizes while maintaining a consistent patch size. VariViT employs a novel positional embedding resizing scheme for a variable number of patches. We also implement a new batching strategy within VariViT to reduce computational complexity, resulting in faster training and inference times.
+
+[[Paper]](https://openreview.net/forum?id=uoRbMNoZ7w) | [[Code]](https://github.com/Aswathi-Varma/varivit)
 
 # LST-AI
 ![LST-AI](/assets/lst-ai.png)
@@ -10,13 +15,11 @@ LST-AI is a publicly available UNet ensemble that segments inflammatory white ma
 
 [[Paper]](https://www.medrxiv.org/content/10.1101/2023.11.23.23298966v2) | [[Code]](https://github.com/CompImg/LST-AI)
 
-
 # INR for Multi-Contrast Super-Resolution
 ![NIF](/assets/NIF.png)
 Combining different views of multi-contrast scans into high-resolution isotropic 3D scans is challenging due to the lack of a large training cohort, which calls for a subject-specific framework. This work proposes a novel solution to this problem leveraging Implicit Neural Representations (INR). Our proposed INR jointly learns two different contrasts of complementary views in a continuous spatial function and benefits from exchanging anatomical information between them.
 
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17) | [[Code]](https://github.com/jqmcginnis/multi_contrast_inr/)
-
 
 # GraphMS
 ![GraphMS](/assets/GraphMS.png)
