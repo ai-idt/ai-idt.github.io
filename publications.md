@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+# Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.
+
 **Scholz D**, Erdur A, Buchner J, Peeken JC, Rueckert D, **Wiestler B**. [Imbalance-aware loss functions improve medical image classification](https://openreview.net/forum?id=5Oiqw76ube). MIDL, 2024
 
 **Varma A**, Shit S, Prabhakar C, **Scholz D**, **Li H**, Menze BH, Rueckert D, **Wiestler B**. [VariViT: A Vision Transformer for Variable Image Sizes](https://openreview.net/forum?id=uoRbMNoZ7w). MIDL, 2024 
