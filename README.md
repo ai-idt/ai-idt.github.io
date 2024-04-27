@@ -3,7 +3,7 @@
 **AI for Image-Guided Diagnosis and Therapy**  
 **Prof. Dr. Benedikt Wiestler**  
 
-While medical imaging generates a vast amount of information, only a fraction is currently used to inform clinical decisions. We bridge this gap by developing advanced algorithms and strategies that make this wealth of data accessible and actionable for clinicians.
+While medical imaging generates vast amounts of information, only a fraction is currently used to inform clinical decisions. We bridge this gap by developing advanced algorithms and strategies that make this wealth of data accessible and actionable for clinicians.
 
 To achieve this goal, we are focusing on three main research areas: 
 
