@@ -1,4 +1,4 @@
-![AI²DAT](/assets/ai2dat.png)
+![AI-IDT](/assets/ai-idt.png)
 
 **AI for Image-Guided Diagnosis and Therapy**  
 **Prof. Dr. Benedikt Wiestler**  
