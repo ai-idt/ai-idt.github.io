@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ## Lab head
-- [Prof. Dr. Benedikt Wiestler](https://scholar.google.com/citations?hl=en&user=-EEm-_MAAAAJ)
+- [Prof. Dr. Benedikt Wiestler](/assets/CV.pdf)
 
 ## Scientists
 - Bailiang Jiang, PhD student
