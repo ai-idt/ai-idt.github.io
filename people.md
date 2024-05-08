@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-## Lab head
+## Group Leader
 - [Prof. Dr. Benedikt Wiestler](/assets/CV.pdf)
 
 ## Scientists
