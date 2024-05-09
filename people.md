@@ -16,7 +16,7 @@ permalink: /people/
 - Jonas Weidner, PhD student
 - Julian Ziegenfeuter, MD student
 
-## Collaborators
+## Research Partners
 - Prof. Shadi Albarqouni, University of Bonn
 - Prof. Spyridon Bakas, Indiana University
 - Prof. Stephanie Combs, TUM Radiation Oncology
