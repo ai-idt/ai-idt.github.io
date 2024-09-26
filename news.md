@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-- [Bailiang's paper](https://arxiv.org/abs/2407.19274) on the influence of various computational elements on DL registration performance is accepted as an oral @ WBIR 2024. Congratulations!
+- [Bailiang's paper](https://arxiv.org/abs/2407.19274) on the influence of various computational elements on DL registration performance is accepted as an oral @ WBIR 2024.
 
 - Two papers accepted @ MIDL 2024. Congratulations [Aswathi](https://openreview.net/forum?id=uoRbMNoZ7w) and [Daniel](https://openreview.net/forum?id=5Oiqw76ube)!
 
