@@ -13,7 +13,7 @@ Vision Transformers (ViTs) have emerged as the state-of-the-art architecture in 
 ![LST-AI](/assets/lst-ai.png)
 LST-AI is a publicly available UNet ensemble that segments inflammatory white matter MS lesions and classifies their location according to the 2017 McDonald criteria.
 
-[[Paper]](https://www.medrxiv.org/content/10.1101/2023.11.23.23298966v2) | [[Code]](https://github.com/CompImg/LST-AI)
+[[Paper]](https://doi.org/10.1016/j.nicl.2024.103611) | [[Code]](https://github.com/CompImg/LST-AI)
 
 # INR for Multi-Contrast Super-Resolution
 ![NIF](/assets/NIF.png)
