@@ -3,6 +3,12 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# GliODIL
+![GliODIL](/assets/GliODIL.png)
+Physical models, represented by partial differential equations, are crucial in addressing many under-constrained problems, such as tumor growth modeling. Deep learning methods often struggle to accurately estimate the complete distribution of tumor cells, primarily due to insufficient training data. As a result, most existing approaches rely on physics-based simulations to align with observed tumor characteristics, yielding anatomically and physiologically plausible estimates. However, these methods face challenges when dealing with complex and unknown initial conditions and are often constrained by rigid physical models. In this work, we introduce a novel method that balances data-driven and physics-based cost functions. Specifically, we propose a unique discretization scheme that quantifies how well our learned spatiotemporal distributions of tumors and brain tissue adhere to their respective growth and elasticity equations. This quantification acts as a regularization term rather than a strict constraint, allowing for greater flexibility and effectiveness in integrating patient data compared to existing models.
+
+[[Paper]](https://neurips.cc/virtual/2024/poster/94680) | [[Code]](https://github.com/m1balcerak/PhysRegTumor)
+
 # VariViT
 ![VariViT](/assets/VariViT.png)
 Vision Transformers (ViTs) have emerged as the state-of-the-art architecture in representation learning, leveraging self-attention mechanisms to excel in various tasks. ViTs split images into fixed-size patches, constraining them to a predefined size and necessitating pre-processing steps like resizing, padding, or cropping. This poses challenges in medical imaging, particularly with irregularly shaped structures like tumors. To address this, we propose VariViT, an improved ViT model crafted to handle variable image sizes while maintaining a consistent patch size. VariViT employs a novel positional embedding resizing scheme for a variable number of patches. We also implement a new batching strategy within VariViT to reduce computational complexity, resulting in faster training and inference times.
