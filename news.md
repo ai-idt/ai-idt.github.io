@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-- Our paper ["Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization"](https://neurips.cc/virtual/2024/poster/94680) (with [Bjoern's group @ DQBM](https://www.dqbm.uzh.ch/en/research/menze.html)) has been accepted @ NeurIPS 2024.
+- Our paper ["Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization"](https://neurips.cc/virtual/2024/poster/94680) (with [Bjoern's group](https://www.dqbm.uzh.ch/en/research/menze.html)) has been accepted @ NeurIPS 2024.
 
 - [Bailiang's paper](https://arxiv.org/abs/2407.19274) on the influence of various computational elements on DL registration performance is accepted as an oral @ WBIR 2024.
 
