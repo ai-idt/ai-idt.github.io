@@ -13,7 +13,9 @@ To achieve this goal, we are focusing on three main research areas:
 
 - Designing algorithms and models that leverage the rich, synergistic information from multimodal medical data
 
-Our lab is a joint appointment between [TUM Radiation Oncology](https://radioonkologie.mri.tum.de/) and [TUM Neuroradiology](https://www.neurokopfzentrum.med.tum.de/neuroradiologie/). Together with our scientific and clinical partners at [TUM](https://www.tum.de) and [TUM Klinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
+Our lab is a joint appointment between [TUM Radiation Oncology](https://radioonkologie.mri.tum.de/) and [TUM Neuroradiology](https://www.neurokopfzentrum.med.tum.de/neuroradiologie/). Together with our scientific and clinical partners at [TUM](https://www.tum.de) and [TUM Universitätsklinikum](https://mri.tum.de), we prioritize research on two key neurological diseases: Multiple Sclerosis and Brain Tumors.
+
+Within the vibrant Munich AI ecosystem, our lab is part of the [MCML](https://mcml.ai/).
 
 Committed to open science, we strive to make all of our developed tools available publicly. We further contribute to the advancement of the field by actively participating in leading challenges like [BraTS](https://synapse.org/brats2023) and workshops such as [BrainLes](https://www.brainlesion-workshop.org/).
 
