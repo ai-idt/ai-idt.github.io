@@ -17,6 +17,6 @@ Our lab is a joint appointment between [TUM Radiation Oncology](https://radioonk
 
 Within the vibrant Munich AI ecosystem, our lab is part of the [MCML](https://mcml.ai/).
 
-Committed to open science, we strive to make all of our developed tools available publicly. We further contribute to the advancement of the field by actively participating in leading challenges like [BraTS](https://synapse.org/brats2023) and workshops such as [BrainLes](https://www.brainlesion-workshop.org/).
+Committed to open science, we strive to make all of our developed tools available publicly. We further contribute to the advancement of the field by actively participating in and co-organizing leading challenges like [BraTS](https://zenodo.org/records/13981216) or [ISLES](https://isles-24.grand-challenge.org/) and workshops such as [BrainLes](https://www.brainlesion-workshop.org/).
 
 We are supported by the [SFB-824](https://sfb824.med.tum.de/en), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](https://mh.tum.de/de/Talentf%C3%B6rderung/Clinician_Scientist_Programm), [ZD.B](https://www.bayern-innovativ.de), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html), [DFG](https://www.uniklinik-freiburg.de/radiomics.html) and [NIH](https://grants.nih.gov/).
