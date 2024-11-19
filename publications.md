@@ -10,6 +10,10 @@ Balcerak M, Amiranashvili T, Wagner A, **Weidner J**, Karnakov P, Paetzold JC, E
 [Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization](https://neurips.cc/virtual/2024/poster/94680).  
 NeurIPS, 2024
 
+**Weidner J**, Ezhov I, Balcerak M, **Metz MC**, Litvinov S, Kaltenbach S, Feiner L, Lux L, Kofler F, Lipkova J, Latz J, Rueckert D, Menze B, **Wiestler B.**
+[A Learnable Prior Improves Inverse Tumor Growth Modeling](https://ieeexplore.ieee.org/document/10748406).
+IEEE TMI, 2024
+
 **Ziegenfeuter J**, Delbridge C, Bernhardt D, Gempt J, Schmidt-Graf F, Hedderich D, Griessmair M, Thomas M, Meyer HS, Zimmer C, Meyer B, Combs SE, Yakushev I, Metz M, **Wiestler B**.  
 [Resolving spatial response heterogeneity in glioblastoma](https://link.springer.com/article/10.1007/s00259-024-06782-y).  
 EJNMMI, 2024
