@@ -9,6 +9,12 @@ Physical models, represented by partial differential equations, are crucial in a
 
 [[Paper]](https://neurips.cc/virtual/2024/poster/94680) | [[Code]](https://github.com/m1balcerak/PhysRegTumor)
 
+# DL-Prior
+![DL-Prior](/assets/DL-Prior.png)
+Biophysical modeling, particularly involving partial differential equations (PDEs), offers significant potential for tailoring disease treatment protocols to individual patients. However, the inverse problem-solving aspect of these models presents a substantial challenge, either due to the high computational requirements of model-based approaches or the limited robustness of deep learning (DL) methods. We propose a novel framework that leverages the unique strengths of both approaches in a synergistic manner. Our method incorporates a DL ensemble for initial parameter estimation, facilitating efficient downstream evolutionary sampling initialized with this DL-based prior.
+
+[[Paper]](https://ieeexplore.ieee.org/document/10748406) | [[Code]](https://github.com/jonasw247/a-learnable-prior-improves-inverse-tumor-growth-modeling)
+
 # VariViT
 ![VariViT](/assets/VariViT.png)
 Vision Transformers (ViTs) have emerged as the state-of-the-art architecture in representation learning, leveraging self-attention mechanisms to excel in various tasks. ViTs split images into fixed-size patches, constraining them to a predefined size and necessitating pre-processing steps like resizing, padding, or cropping. This poses challenges in medical imaging, particularly with irregularly shaped structures like tumors. To address this, we propose VariViT, an improved ViT model crafted to handle variable image sizes while maintaining a consistent patch size. VariViT employs a novel positional embedding resizing scheme for a variable number of patches. We also implement a new batching strategy within VariViT to reduce computational complexity, resulting in faster training and inference times.
