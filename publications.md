@@ -6,6 +6,14 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
+Bercea CI, **Wiestler B**, Rueckert D, Schnabel JA.  
+[Evaluating Normative Representation Learning in Generative AI for Robust Anomaly Detection in Brain Imaging](https://www.nature.com/articles/s41467-025-56321-y).  
+Nature Communications, 2025
+
+Kim SH, Schramm S, Adams LC, Braren R, Bressem KK, Keicher M, Platzek PS, Paprottka KJ, Zimmer C, Hedderich D, **Wiestler B.**  
+[Benchmarking the Diagnostic Performance of Open Source LLMs in 1933 Eurorad Case Reports](https://www.nature.com/articles/s41746-025-01488-3).  
+npj Digital Medicine, 2025
+
 Balcerak M, Amiranashvili T, Wagner A, **Weidner J**, Karnakov P, Paetzold JC, Ezhov I, Koumoutsakos P, **Wiestler B**\*, Menze BH*.  
 [Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization](https://neurips.cc/virtual/2024/poster/94680).  
 NeurIPS, 2024
