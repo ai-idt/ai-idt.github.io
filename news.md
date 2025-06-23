@@ -3,6 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
+- Daniel has two papers accepted at MICCAI 2025 - Congratulations!
+
 - Zeineb's work on [Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models](https://arxiv.org/abs/2501.08226), done as part of a student internship in our lab, has been accepted for oral presentation @ BVM 2025.
 
 - Our paper ["Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization"](https://neurips.cc/virtual/2024/poster/94680) (with [Bjoern's group](https://www.dqbm.uzh.ch/en/research/menze.html)) has been accepted @ NeurIPS 2024.
