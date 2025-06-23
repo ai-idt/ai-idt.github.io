@@ -3,6 +3,13 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# NOVA
+![NOVA](/assets/NOVA.png)
+Deployed models often encounter data that differs from training distributions, requiring robust out-of-distribution detection and open-world recognition capabilities. While foundation and vision-language models are expected to generalize broadly, current benchmarks with limited outlier types fail to capture real-world challenges, particularly in clinical settings.
+We present NOVA, a challenging evaluation benchmark of ~900 brain MRI scans spanning 281 rare pathologies with heterogeneous acquisition protocols. Each case includes clinical narratives and expert bounding-box annotations, enabling joint assessment of anomaly localization, visual captioning, and diagnostic reasoning. As a training-free benchmark, NOVA provides an extreme stress-test of out-of-distribution generalization across both sample appearance and semantic domains, addressing critical gaps in evaluating model robustness for real-world medical applications.
+
+[[Paper]](https://arxiv.org/abs/2505.14064) | [[Data]](https://huggingface.co/datasets/Ano-2090/Nova)
+
 # GliODIL
 ![GliODIL](/assets/GliODIL.png)
 Physical models, represented by partial differential equations, are crucial in addressing many under-constrained problems, such as tumor growth modeling. Deep learning methods often struggle to accurately estimate the complete distribution of tumor cells, primarily due to insufficient training data. As a result, most existing approaches rely on physics-based simulations to align with observed tumor characteristics, yielding anatomically and physiologically plausible estimates. However, these methods face challenges when dealing with complex and unknown initial conditions and are often constrained by rigid physical models. In this work, we introduce a novel method that balances data-driven and physics-based cost functions. Specifically, we propose a unique discretization scheme that quantifies how well our learned spatiotemporal distributions of tumors and brain tissue adhere to their respective growth and elasticity equations. This quantification acts as a regularization term rather than a strict constraint, allowing for greater flexibility and effectiveness in integrating patient data compared to existing models.
