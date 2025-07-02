@@ -6,8 +6,8 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
-Balcerak M, **Weidner J**, Karnakov P, Ezhov I, Litvinov S, Koumoutsakos P, Amiranashvili T, Zhang RZ, Lowengrub JS, Yakushev I, **Wiestler B**\*, Menze BH*. 
-[Individualizing glioma radiotherapy planning by optimization of a data and physics-informed discrete loss](https://www.nature.com/articles/s41467-025-60366-4)
+Balcerak M, **Weidner J**, Karnakov P, Ezhov I, Litvinov S, Koumoutsakos P, Amiranashvili T, Zhang RZ, Lowengrub JS, Yakushev I, **Wiestler B**\*, Menze BH*.  
+[Individualizing glioma radiotherapy planning by optimization of a data and physics-informed discrete loss](https://www.nature.com/articles/s41467-025-60366-4).  
 Nature Communications, 2025
 
 **Bercea CI**, **Wiestler B**, Rueckert D, Schnabel JA.  
