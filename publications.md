@@ -6,7 +6,11 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
-Bercea CI, **Wiestler B**, Rueckert D, Schnabel JA.  
+Balcerak M, **Weidner J**, Karnakov P, Ezhov I, Litvinov S, Koumoutsakos P, Amiranashvili T, Zhang RZ, Lowengrub JS, Yakushev I, **Wiestler B**\*, Menze BH*. 
+[Individualizing glioma radiotherapy planning by optimization of a data and physics-informed discrete loss](https://www.nature.com/articles/s41467-025-60366-4)
+Nature Communications, 2025
+
+**Bercea CI**, **Wiestler B**, Rueckert D, Schnabel JA.  
 [Evaluating Normative Representation Learning in Generative AI for Robust Anomaly Detection in Brain Imaging](https://www.nature.com/articles/s41467-025-56321-y).  
 Nature Communications, 2025
 
