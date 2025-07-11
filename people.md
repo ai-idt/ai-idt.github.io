@@ -11,7 +11,7 @@ permalink: /people/
 - Cosmin Bercea, PhD
 - Bailiang Jiang, PhD student
 - Marie Metz, MD
-- Sandeed Nagar, PhD
+- Sandeep Nagar, PhD
 - Camillo Saueressig, PhD student
 - Daniel Scholz, PhD student
 - Aswathi Varma, PhD student
