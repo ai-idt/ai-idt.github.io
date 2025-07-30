@@ -1,9 +1,5 @@
 ![AI-IDT](/assets/ai-idt.png)
 
-**AI for Image-Guided Diagnosis and Therapy**  
-**School of Medicine & Health, TU Munich**  
-**Prof. Dr. Benedikt Wiestler**  
-
 Medical imaging produces vast amounts of data, yet only a small fraction is currently utilized in clinical decision-making. We bridge this gap by developing advanced algorithms and strategies that transform this wealth of information into accessible and actionable insights for clinicians.
 
 To achieve this goal, we are focusing on three main research areas: 
