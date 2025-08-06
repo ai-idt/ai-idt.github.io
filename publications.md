@@ -43,8 +43,8 @@ MIDL, 2024
 MIDL, 2024 
 
 Meissen F, Breuer S, Knolle M, Buyx A, Mueller R, Kaissis G, **Wiestler B**\*, Rueckert D\*.  
-[(Predictable) performance bias in unsupervised anomaly detection](https://pubmed.ncbi.nlm.nih.gov/38335791/).  
-EBioMedicine, 2024
+[(Predictable) performance bias in unsupervised anomaly detection](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00037-9/fulltext).  
+eBioMedicine, 2024
 
 McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**.  
 [Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17).  
@@ -59,11 +59,11 @@ Prabhakar C, **Li H**, Yang J, Shit S, **Wiestler B**\*, Menze BH\*.
 MIDL, 2023
 
 **Kofler F**, Shit S, **Ezhov I**, Fidon L, Horvath I, Al-Maskari R, **Li H**, Bhatia H, Loehr T, Piraud M, Ertuerk A, Kirschke J, Peeken J, Vercauteren T, Zimmer C, **Wiestler B**\*, Menze BH\*.  
-[blob loss: instance imbalance aware loss functions for semantic segmentation](https://arxiv.org/abs/2205.08209).  
+[blob loss: Instance Imbalance Aware Loss Functions for Semantic Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_58).  
 IPMI, 2023
 
 **Ezhov I**, Scibilia K, Franitza K, Steinbauer F, Shit S, Zimmer L, Lipkova J, **Kofler F**, Paetzold JC, Canalini L, Waldmannstetter D, Menten M, **Metz M**, **Wiestler B**\*, Menze BH\*.  
-[Learn-Morph-Infer: A new way of solving the inverse problem for brain tumor modeling](https://pubmed.ncbi.nlm.nih.gov/36395623/).  
+[Learn-Morph-Infer: A new way of solving the inverse problem for brain tumor modeling](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003000).  
 Medical Image Analysis, 2022
 
 Bercea CI, **Wiestler B**, Rueckert D, Albarqouni S.  
@@ -71,35 +71,35 @@ Bercea CI, **Wiestler B**, Rueckert D, Albarqouni S.
 Nature Machine Intelligence, 2022
 
 Gempt J, **Withake F**, Aftahy AK, Meyer HS, Barz M, Delbridge C, Liesche-Starnecker F, Prokop G, Pfarr N, Schlegel J, Meyer B, Zimmer C, Menze BH\*, **Wiestler B**\*.  
-[Methylation subgroup and molecular heterogeneity is a hallmark of glioblastoma: implications for biopsy targeting, classification and therapy](https://pubmed.ncbi.nlm.nih.gov/36055049/).  
+[Methylation subgroup and molecular heterogeneity is a hallmark of glioblastoma: implications for biopsy targeting, classification and therapy](https://www.esmoopen.com/article/S2059-7029(22)00194-6/fulltext).  
 ESMO Open, 2022
 
 **Ezhov I**, Mot T, Shit S, **Lipkova J**, Paetzold JC, **Kofler F**, Pellegrini C, Kollovieh M, Navarro F, **Li H**, **Metz M**, **Wiestler B**, Menze BH.  
-[Geometry-aware neural solver for fast Bayesian calibration of brain tumor models](https://pubmed.ncbi.nlm.nih.gov/34928790/).  
+[Geometry-aware neural solver for fast Bayesian calibration of brain tumor models](https://ieeexplore.ieee.org/document/9656125/).  
 IEEE TMI, 2021
 
 **Thomas MF**, **Kofler F**, Grundl L, **Finck T**, **Li H**, Zimmer C, Menze BH, **Wiestler B**.  
-[Improving Automated Glioma Segmentation in Routine Clinical Use Through Artificial Intelligence-Based Replacement of Missing Sequences With Synthetic Magnetic Resonance Imaging Scans](https://pubmed.ncbi.nlm.nih.gov/34652289/).  
+[Improving Automated Glioma Segmentation in Routine Clinical Use Through Artificial Intelligence-Based Replacement of Missing Sequences With Synthetic Magnetic Resonance Imaging Scans](https://journals.lww.com/investigativeradiology/abstract/2022/03000/improving_automated_glioma_segmentation_in_routine.7.aspx).  
 Investigative Radiology, 2021
 
 Paprottka KJ, Kleiner S, Preibisch C, **Kofler F**, Schmidt-Graf F, Delbridge C, Bernhardt D, Combs SE, Gempt J, Meyer B, Zimmer C, Menze BH, Yakushev I, Kirschke JS, **Wiestler B**.  
-[Fully automated analysis combining 18F-FET-PET and multiparametric MRI including DSC perfusion and APTw imaging: a promising tool for objective evaluation of glioma progression](https://pubmed.ncbi.nlm.nih.gov/34173008/).  
+[Fully automated analysis combining 18F-FET-PET and multiparametric MRI including DSC perfusion and APTw imaging: a promising tool for objective evaluation of glioma progression](https://link.springer.com/article/10.1007/s00259-021-05427-8).  
 EJNMMI, 2021
 
 **Finck T**, Schinz D, Grundl L, Eisawy R, Yigitsoy M, Moosbauer J, Pfister F, **Wiestler B**.  
-[Automated Pathology Detection and Patient Triage in Routinely Acquired Head Computed Tomography Scans](https://pubmed.ncbi.nlm.nih.gov/33813571/).  
+[Automated Pathology Detection and Patient Triage in Routinely Acquired Head Computed Tomography Scans](https://journals.lww.com/investigativeradiology/abstract/2021/09000/automated_pathology_detection_and_patient_triage.5.aspx).  
 Investigative Radiology, 2021
 
 Baur C\*, **Wiestler B**\*, Mühlau M, Zimmer C, Navab N, Albarqouni S.  
-[Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/).  
-Radiology AI, 2021
+[Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubs.rsna.org/doi/10.1148/ryai.2021190169).  
+Radiology: Artificial Intelligence, 2021
 
 **Metz M**, **Molina-Romero M**, **Lipkova J**, Gempt J, Liesche-Starnecker F, **Eichinger P**, Grundl L, Menze BH, Combs SE, Zimmer C, **Wiestler B**.  
-[Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://pubmed.ncbi.nlm.nih.gov/32204544/).  
+[Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://www.mdpi.com/2072-6694/12/3/728).  
 Cancers, 2020
 
 **Li H**, Paetzold J, Sekuboyina A, **Kofler F**, Zhang J, Kirschke JS, **Wiestler B**, Menze BH.  
-[DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://arxiv.org/abs/1904.12894).  
+[DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_87).  
 MICCAI, 2019
 
 Baur C, **Wiestler B**, Albarqouni S, Navab N.  
@@ -107,7 +107,7 @@ Baur C, **Wiestler B**, Albarqouni S, Navab N.
 MIDL, 2019
 
 **Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**.  
-[Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448).  
+[Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://pubs.rsna.org/doi/10.1148/radiol.2019181568).  
 Radiology, 2019
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, Menze BH.  
@@ -127,8 +127,8 @@ Baur C, **Wiestler B**, Albarqouni S, Navab N.
 BrainLes @ MICCAI, 2018
 
 **Eichinger P**, Wiestler H, **Zhang H**, Biberacher V, Kirschke JS, Zimmer C, Mühlau M, **Wiestler B**.  
-[A novel imaging technique for better detecting new lesions in multiple sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/28756606).  
-J Neurol, 2017
+[A novel imaging technique for better detecting new lesions in multiple sclerosis](https://link.springer.com/article/10.1007/s00415-017-8576-y).  
+Journal of Neurology, 2017
 
 **Eichinger P**, **Alberts E**, Delbridge C, Trebeschi S, Valentinitsch A, Bette S, Huber T, Gempt J, Meyer B, Schlegel J, Zimmer C, Kirschke JS, Menze BH, **Wiestler B**.  
 [Diffusion tensor image features predict IDH genotype in newly diagnosed WHO grade II/III gliomas](https://www.nature.com/articles/s41598-017-13679-4).  
@@ -139,5 +139,5 @@ Scientific Reports, 2017
 MICGen @ MICCAI, 2017
 
 Osswald M, Jung E, Sahm F, Solecki G, Venkataramani V, Blaes J, Weil S, Horstmann H, **Wiestler B**, Syed M, Huang L, Ratliff M, Karimian Jazi K, Kurz FT, Schmenger T, Lemke D, Gömmel M, Pauli M, Liao Y, Häring P, Pusch S, Herl V, Steinhäuser C, Krunic D, Jarahian M, Miletic H, Berghoff AS, Griesbeck O, Kalamakis G, Garaschuk O, Preusser M, Weiss S, Liu H, Heiland S, Platten M, Huber PE, Kuner T, von Deimling A, Wick W, Winkler F.  
-[Brain tumour cells interconnect to a functional and resistant network](https://www.ncbi.nlm.nih.gov/pubmed/26536111).  
+[Brain tumour cells interconnect to a functional and resistant network](https://www.nature.com/articles/nature16071).  
 Nature, 2015
