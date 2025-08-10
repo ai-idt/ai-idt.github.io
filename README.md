@@ -1,6 +1,6 @@
 ![AI-IDT](/assets/ai-idt.png)
 
-Medical imaging produces vast amounts of data, yet only a small fraction is currently utilized in clinical decision-making. We bridge this gap by developing advanced algorithms and strategies that transform this wealth of information into accessible and actionable insights for clinicians.
+A fundamental challenge in modern medicine is the discrepancy between the increasing availability of complex, multimodal data and its limited application in daily clinical decision-making. This disconnect between data richness and clinical utilization represents a critical barrier to advancing precision medicine. My **AI for Image-Guided Diagnosis and Therapy** lab aims to bridge this gap. We develop state-of-the-art Artificial Intelligence models that synthesize this complex information into actionable biomarkers, directly informing precision diagnostics and personalized therapeutic strategies.
 
 To achieve this goal, we are focusing on three main research areas: 
 
