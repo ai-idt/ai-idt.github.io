@@ -3,6 +3,15 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# DeepISLES
+![DeepISLES](/assets/DeepISLES.png)
+
+*DeepISLES*, an AI segmentation ensemble for stroke MRI originating from the ISLES'22 challenge, outperforms previous stroke segmentation models by > 10% and matches expert radiologist performance in identifying stroke lesions, showing strong clinical relevance and generalizability. *DeepISLES* further highlights the potential of biomedical challenges to bring together leading research groups to jointly advance the field.
+
+[[Paper]](https://www.nature.com/articles/s41467-025-62373-x) | [[Code]](https://github.com/ezequieldlrosa/DeepIsles)
+
+***
+
 # NOVA
 ![NOVA](/assets/NOVA.png)
 Deployed models often encounter data that differs from training distributions, requiring robust out-of-distribution detection and open-world recognition capabilities. While foundation and vision-language models are expected to generalize broadly, current benchmarks with limited outlier types fail to capture real-world challenges, particularly in clinical settings.
