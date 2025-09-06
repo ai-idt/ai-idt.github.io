@@ -8,7 +8,7 @@ permalink: /publications/
 
 de la Rosa E, Reyes M, Liew SL, ..., Menze BH, Kirschke J, **Wiestler B.**  
 [DeepISLES: A clinically validated ischemic stroke segmentation model from the ISLES'22 challenge.](https://www.nature.com/articles/s41467-025-62373-x)  
-Nature Communications 2025
+Nature Communications, 2025
 
 Balcerak M, **Weidner J**, Karnakov P, Ezhov I, Litvinov S, Koumoutsakos P, Amiranashvili T, Zhang RZ, Lowengrub JS, Yakushev I, **Wiestler B**\*, Menze BH*.  
 [Individualizing glioma radiotherapy planning by optimization of a data and physics-informed discrete loss](https://www.nature.com/articles/s41467-025-60366-4).  
