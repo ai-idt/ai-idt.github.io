@@ -6,8 +6,12 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
+**Bercea CI**, Li J, Raffler P, Riedel EO, Schmitzer L, Kurz A, Bitzer F, Roßmüller P, Canisius J, Beyrle ML, Liu C, Bai W, Kainz B, Schnabel JA, **Wiestler B.**  
+[NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://arxiv.org/abs/2505.14064)  
+NeurIPS (Oral), 2025
+
 de la Rosa E, Reyes M, Liew SL, ..., Menze BH, Kirschke J, **Wiestler B.**  
-[DeepISLES: A clinically validated ischemic stroke segmentation model from the ISLES'22 challenge.](https://www.nature.com/articles/s41467-025-62373-x)  
+[DeepISLES: A clinically validated ischemic stroke segmentation model from the ISLES'22 challenge](https://www.nature.com/articles/s41467-025-62373-x)  
 Nature Communications, 2025
 
 Balcerak M, **Weidner J**, Karnakov P, Ezhov I, Litvinov S, Koumoutsakos P, Amiranashvili T, Zhang RZ, Lowengrub JS, Yakushev I, **Wiestler B**\*, Menze BH*.  
