@@ -5,7 +5,7 @@ permalink: /news/
 ---
 - Cosmin's paper ["NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI"](https://arxiv.org/abs/2505.14064) is selected for oral presentation at NeurIPS 2025.
 
-- Daniel has two papers accepted at MICCAI 2025 - Congratulations!
+- Daniel has [two](https://arxiv.org/abs/2509.06592) [papers](https://arxiv.org/abs/2509.06617) accepted at MICCAI 2025 - Congratulations!
 
 - Zeineb's work on [Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models](https://arxiv.org/abs/2501.08226), done as part of a student internship in our lab, has been accepted for oral presentation @ BVM 2025.
 
