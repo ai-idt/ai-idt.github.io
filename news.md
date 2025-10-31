@@ -3,6 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
+- Julian defends his MD thesis with *summa cum laude*. Congratulations Dr. Ziegenfeuter!
+
 - Saltuk wins the VDI Prize for his Master thesis "AI-powered CA-Design: Predictive Modelling of Operations".
 
 - Cosmin's paper ["NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI"](https://arxiv.org/abs/2505.14064) is selected for oral presentation at NeurIPS 2025.
