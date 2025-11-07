@@ -9,7 +9,7 @@ permalink: /projects/
 
 Vision foundation models (VFMs) pre-trained on natural images, such as DINOv2, are powerful yet inherently limited to unimodal analysis, restricting their use in multimodal medical imaging. Supervised baselines handle multi-modal inputs but underuse unlabeled data and degrade with missing modalities. We propose MM-DINOv2, an efficient adaptation of DINOv2 for multi-modal medical imaging. MM-DINOv2 introduces multi-modal patch embeddings to jointly process heterogeneous inputs, full-modality masking to learn robust cross-modality representations under missing data, and semi-supervised learning to exploit large unlabeled datasets. mm-DINOv2 is a scalable framework that leverages natural-image pretraining while addressing practical clinical challenges of missing data and limited annotations.
 
-[[Paper]](https://arxiv.org/abs/2509.06617) | [[Code]](https://github.com/daniel-scholz/mm-dinov2)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_31) | [[Code]](https://github.com/daniel-scholz/mm-dinov2)
 
 ***
 
