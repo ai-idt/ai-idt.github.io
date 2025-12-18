@@ -27,7 +27,7 @@ Vision foundation models (VFMs) pre-trained on natural images, such as DINOv2, a
 Deployed models often encounter data that differs from training distributions, requiring robust out-of-distribution detection and open-world recognition capabilities. While foundation and vision-language models are expected to generalize broadly, current benchmarks with limited outlier types fail to capture real-world challenges, particularly in clinical settings.
 We present NOVA, a challenging evaluation benchmark of ~900 brain MRI scans spanning 281 rare pathologies with heterogeneous acquisition protocols. Each case includes clinical narratives and expert bounding-box annotations, enabling joint assessment of anomaly localization, visual captioning, and diagnostic reasoning. As a training-free benchmark, NOVA provides an extreme stress-test of out-of-distribution generalization across both sample appearance and semantic domains, addressing critical gaps in evaluating model robustness for real-world medical applications.
 
-[[Paper]](https://arxiv.org/abs/2505.14064) | [[Data]](https://huggingface.co/datasets/Ano-2090/Nova)
+[[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121770) | [[Data]](https://huggingface.co/datasets/Ano-2090/Nova)
 
 ***
 
