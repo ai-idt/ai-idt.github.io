@@ -7,7 +7,7 @@ permalink: /publications/
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
 **Bercea CI**, Li J, Raffler P, Riedel EO, Schmitzer L, Kurz A, Bitzer F, Roßmüller P, Canisius J, Beyrle ML, Liu C, Bai W, Kainz B, Schnabel JA, **Wiestler B.**  
-[NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://arxiv.org/abs/2505.14064)  
+[NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://neurips.cc/virtual/2025/loc/san-diego/poster/121770)  
 NeurIPS (Oral), 2025
 
 de la Rosa E, Reyes M, Liew SL, ..., Menze BH, Kirschke J, **Wiestler B.**  
