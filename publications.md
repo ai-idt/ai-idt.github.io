@@ -6,6 +6,14 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
+**McGinnis J**, Shit S, Hoelzl A, Friedrich P, Bueschl P, Sideri-Lampretsa V, Muehlau M, Cattin PC, Menze BH, Rueckert D, **Wiestler B.**  
+[Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens](https://openreview.net/forum?id=REEdaR0zqj)  
+ICLR, 2026
+
+**Scholz D**, Erdur AC, Peeken JC, **Varma A**, Graf R, Kirschke JS, Rueckert D, **Wiestler B.**  
+[Random Convolutions for Domain Generalization of Deep Learning–based Medical Image Segmentation Models](https://pubs.rsna.org/doi/abs/10.1148/ryai.240502)  
+Radiology: Artificial Intelligence, 2025
+
 **Bercea CI**, Li J, Raffler P, Riedel EO, Schmitzer L, Kurz A, Bitzer F, Roßmüller P, Canisius J, Beyrle ML, Liu C, Bai W, Kainz B, Schnabel JA, **Wiestler B.**  
 [NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI](https://neurips.cc/virtual/2025/loc/san-diego/poster/121770)  
 NeurIPS (Oral), 2025
