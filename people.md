@@ -10,12 +10,15 @@ permalink: /people/
 ## Scientists
 - Cosmin Bercea, PhD
 - Bailiang Jiang, PhD student
+- Julian McGinnis, PhD student
 - Marie Metz, MD
 - Sandeep Nagar, PhD
 - Camillo Saueressig, PhD student
 - Daniel Scholz, PhD student
 - Aswathi Varma, PhD student
 - Jonas Weidner, PhD student
+- Marco Wittrich, PhD student
+- Sami Yavuz, PhD student
 - Julian Ziegenfeuter, MD student
 
 ## Research Partners
