@@ -3,7 +3,9 @@ layout: page
 title: News
 permalink: /news/
 ---
-- [LST-AI](https://www.sciencedirect.com/science/article/pii/S2213158224000500) is selected as "Paper of the Year" by NeuroImage: Clinical
+- Julian's work on [Lipschitz regularization of INRs](https://openreview.net/forum?id=REEdaR0zqj) is accepted at ICLR 2026.
+
+- [LST-AI](https://www.sciencedirect.com/science/article/pii/S2213158224000500) is selected as "Paper of the Year" by NeuroImage: Clinical.
 
 - Julian defends his MD thesis with *summa cum laude*. Congratulations Dr. Ziegenfeuter!
 
