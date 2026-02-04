@@ -7,8 +7,6 @@ permalink: /projects/
 # Rank-INR
 ![Rank-INR](/assets/muon-inr.png)
 
-
-
 Implicit Neural Representations (INRs) based on vanilla Multi-Layer Perceptrons (MLPs) are widely believed to be incapable of representing high-frequency content. This has directed research efforts towards architectural interventions, such as coordinate embeddings or specialized activation functions.
 Here, we challenge the notion that the low-frequency bias of vanilla MLPs is an intrinsic, architectural limitation, but instead a symptom of stable rank degradation during training. We empirically demonstrate that regulating the network's rank during training substantially improves the fidelity of the learned signal, rendering even simple MLP architectures expressive.
 
@@ -16,10 +14,19 @@ Here, we challenge the notion that the low-frequency bias of vanilla MLPs is an 
 
 ***
 
+# Lipschitz-INR
+![Lipschitz-INR](/assets/LipschitzINR.png)
+
+Implicit Neural Representations (INRs) have shown great promise in solving inverse problems, but their lack of inherent regularization often leads to a trade-off between expressiveness and smoothness. While Lipschitz continuity presents a principled form of implicit regularization, it is often applied as a rigid, uniform constraint. In this work, we reframe Lipschitz regularization as a flexible Lipschitz budget framework. We propose a method to first derive a principled, task-specific total budget $K$, then distribute it non-uniformly across all network components, including linear weights, activations, and embeddings. Across extensive experiments on deformable registration and image inpainting, we show that non-uniform allocation strategies provide a measure to balance regularization and expressiveness within the specified global budget.
+
+[[Paper]](https://openreview.net/forum?id=REEdaR0zqj) | [[Code]](https://lipschitz-inrs.github.io/)
+
+***
+
 # MM-DINOv2
 ![MM-DINOv2](/assets/mm-DINOv2.png)
 
-Vision foundation models (VFMs) pre-trained on natural images, such as DINOv2, are powerful yet inherently limited to unimodal analysis, restricting their use in multimodal medical imaging. Supervised baselines handle multi-modal inputs but underuse unlabeled data and degrade with missing modalities. We propose MM-DINOv2, an efficient adaptation of DINOv2 for multi-modal medical imaging. MM-DINOv2 introduces multi-modal patch embeddings to jointly process heterogeneous inputs, full-modality masking to learn robust cross-modality representations under missing data, and semi-supervised learning to exploit large unlabeled datasets. MM-DINOv2 is a scalable framework that leverages natural-image pretraining while addressing practical clinical challenges of missing data and limited annotations.
+Vision foundation models (VFMs) pre-trained on natural images, such as DINOv2, are powerful yet inherently limited to unimodal analysis, restricting their use in multimodal medical imaging. Supervised baselines handle multi-modal inputs but underuse unlabeled data and degrade when modalities are missing. We propose MM-DINOv2, an efficient adaptation of DINOv2 for multi-modal medical imaging. MM-DINOv2 introduces multi-modal patch embeddings to jointly process heterogeneous inputs, full-modality masking to learn robust cross-modality representations under missing data, and semi-supervised learning to exploit large unlabeled datasets. MM-DINOv2 is a scalable framework that leverages natural-image pretraining while addressing practical clinical challenges of missing data and limited annotations.
 
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_31) | [[Code]](https://github.com/daniel-scholz/mm-dinov2)
 
@@ -36,8 +43,7 @@ Vision foundation models (VFMs) pre-trained on natural images, such as DINOv2, a
 
 # NOVA
 ![NOVA](/assets/NOVA.png)
-Deployed models often encounter data that differs from training distributions, requiring robust out-of-distribution detection and open-world recognition capabilities. While foundation and vision-language models are expected to generalize broadly, current benchmarks with limited outlier types fail to capture real-world challenges, particularly in clinical settings.
-We present NOVA, a challenging evaluation benchmark of ~900 brain MRI scans spanning 281 rare pathologies with heterogeneous acquisition protocols. Each case includes clinical narratives and expert bounding-box annotations, enabling joint assessment of anomaly localization, visual captioning, and diagnostic reasoning. As a training-free benchmark, NOVA provides an extreme stress-test of out-of-distribution generalization across both sample appearance and semantic domains, addressing critical gaps in evaluating model robustness for real-world medical applications.
+Deployed models often encounter data distributions that differ from their training distributions, requiring robust out-of-distribution detection and open-world recognition. While foundation and vision-language models are expected to generalize broadly, current benchmarks with limited outlier types fail to capture real-world challenges, particularly in clinical settings. We present NOVA, a challenging evaluation benchmark of ~900 brain MRI scans spanning 281 rare pathologies with heterogeneous acquisition protocols. Each case includes clinical narratives and expert bounding-box annotations, enabling joint assessment of anomaly localization, visual captioning, and diagnostic reasoning. As a training-free benchmark, NOVA provides an extreme stress-test of out-of-distribution generalization across both sample appearance and semantic domains, addressing critical gaps in evaluating model robustness for real-world medical applications.
 
 [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121770) | [[Data]](https://huggingface.co/datasets/Ano-2090/Nova)
 
@@ -45,7 +51,7 @@ We present NOVA, a challenging evaluation benchmark of ~900 brain MRI scans span
 
 # GliODIL
 ![GliODIL](/assets/GliODIL.png)
-Physical models, represented by partial differential equations, are crucial in addressing many under-constrained problems, such as tumor growth modeling. Deep learning methods often struggle to accurately estimate the complete distribution of tumor cells, primarily due to insufficient training data. As a result, most existing approaches rely on physics-based simulations to align with observed tumor characteristics, yielding anatomically and physiologically plausible estimates. However, these methods face challenges when dealing with complex and unknown initial conditions and are often constrained by rigid physical models. In this work, we introduce a novel method that balances data-driven and physics-based cost functions. Specifically, we propose a unique discretization scheme that quantifies how well our learned spatiotemporal distributions of tumors and brain tissue adhere to their respective growth and elasticity equations. This quantification acts as a regularization term rather than a strict constraint, allowing for greater flexibility and effectiveness in integrating patient data compared to existing models.
+Physical models, represented by partial differential equations, are crucial in addressing many under-constrained problems, such as tumor growth modeling. Deep learning methods often struggle to accurately estimate the full distribution of tumor cells, primarily because of insufficient training data. As a result, most existing approaches rely on physics-based simulations to align with observed tumor characteristics, yielding anatomically and physiologically plausible estimates. However, these methods face challenges when dealing with complex and unknown initial conditions and are often constrained by rigid physical models. In this work, we introduce a novel method that balances data-driven and physics-based cost functions. Specifically, we propose a unique discretization scheme that quantifies how well our learned spatiotemporal distributions of tumors and brain tissue adhere to their respective growth and elasticity equations. This quantification serves as a regularization term rather than a strict constraint, enabling greater flexibility and more effective integration of patient data than existing models.
 
 [[Paper]](https://neurips.cc/virtual/2024/poster/94680) | [[Code]](https://github.com/m1balcerak/PhysRegTumor)
 
@@ -53,7 +59,7 @@ Physical models, represented by partial differential equations, are crucial in a
 
 # DL-Prior
 ![DL-Prior](/assets/DL-Prior.png)
-Biophysical modeling, particularly involving partial differential equations (PDEs), offers significant potential for tailoring disease treatment protocols to individual patients. However, the inverse problem-solving aspect of these models presents a substantial challenge, either due to the high computational requirements of model-based approaches or the limited robustness of deep learning (DL) methods. We propose a novel framework that leverages the unique strengths of both approaches in a synergistic manner. Our method incorporates a DL ensemble for initial parameter estimation, facilitating efficient downstream evolutionary sampling initialized with this DL-based prior.
+Biophysical modeling, particularly using partial differential equations (PDEs), offers significant potential to tailor disease treatment protocols to individual patients. However, the inverse problem-solving aspect of these models presents a substantial challenge, either due to the high computational requirements of model-based approaches or the limited robustness of deep learning (DL) methods. We propose a novel framework that leverages the unique strengths of both approaches in a synergistic manner. Our method incorporates a DL ensemble for initial parameter estimation, facilitating efficient downstream evolutionary sampling initialized with this DL-based prior.
 
 [[Paper]](https://ieeexplore.ieee.org/document/10748406) | [[Code]](https://github.com/jonasw247/a-learnable-prior-improves-inverse-tumor-growth-modeling)
 
@@ -61,7 +67,7 @@ Biophysical modeling, particularly involving partial differential equations (PDE
 
 # VariViT
 ![VariViT](/assets/VariViT.png)
-Vision Transformers (ViTs) have emerged as the state-of-the-art architecture in representation learning, leveraging self-attention mechanisms to excel in various tasks. ViTs split images into fixed-size patches, constraining them to a predefined size and necessitating pre-processing steps like resizing, padding, or cropping. This poses challenges in medical imaging, particularly with irregularly shaped structures like tumors. To address this, we propose VariViT, an improved ViT model crafted to handle variable image sizes while maintaining a consistent patch size. VariViT employs a novel positional embedding resizing scheme for a variable number of patches. We also implement a new batching strategy within VariViT to reduce computational complexity, resulting in faster training and inference times.
+Vision Transformers (ViTs) have emerged as the state-of-the-art architecture for representation learning, leveraging self-attention mechanisms to excel across a range of tasks. ViTs split images into fixed-size patches, constraining them to a predefined size and requiring pre-processing steps such as resizing, padding, or cropping. This poses challenges in medical imaging, particularly for irregularly shaped structures such as tumors. To address this, we propose VariViT, an improved ViT model crafted to handle variable image sizes while maintaining a consistent patch size. VariViT employs a novel positional embedding resizing scheme for a variable number of patches. We also implement a new batching strategy within VariViT to reduce computational complexity, resulting in faster training and inference times.
 
 [[Paper]](https://openreview.net/forum?id=uoRbMNoZ7w) | [[Code]](https://github.com/Aswathi-Varma/varivit)
 
@@ -77,7 +83,7 @@ LST-AI is a publicly available UNet ensemble that segments inflammatory white ma
 
 # INR for Multi-Contrast Super-Resolution
 ![NIF](/assets/NIF.png)
-Combining different views of multi-contrast scans into high-resolution isotropic 3D scans is challenging due to the lack of a large training cohort, which calls for a subject-specific framework. This work proposes a novel solution to this problem leveraging Implicit Neural Representations (INR). Our proposed INR jointly learns two different contrasts of complementary views in a continuous spatial function and benefits from exchanging anatomical information between them.
+Combining different views of multi-contrast scans into high-resolution, isotropic 3D scans is challenging due to the limited availability of large training cohorts, which calls for a subject-specific framework. This work proposes a novel solution to this problem, leveraging Implicit Neural Representations (INR). Our proposed INR jointly learns two different contrasts of complementary views in a continuous spatial function and benefits from exchanging anatomical information between them.
 
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17) | [[Code]](https://github.com/jqmcginnis/multi_contrast_inr/)
 
@@ -85,6 +91,6 @@ Combining different views of multi-contrast scans into high-resolution isotropic
 
 # GraphMS
 ![GraphMS](/assets/GraphMS.png)
-Our work represents the first attempt to utilize graph neural networks (GNN) to aggregate imaging lesion-based biomarkers for a novel global representation. We propose a two-stage MS inflammatory disease activity prediction approach. First, a 3D segmentation network detects lesions, and a self-supervised algorithm extracts their image features. Second, the detected lesions are used to build a patient graph. The lesions act as nodes in the graph and are initialized with image features extracted in the first stage. Finally, the lesions are connected based on their spatial proximity and the inflammatory disease activity prediction is formulated as a graph classification task. Furthermore, we propose a self-pruning strategy to auto-select the most critical lesions for prediction. 
+Our work represents the first attempt to use graph neural networks (GNNs) to aggregate lesion-based imaging biomarkers into a novel global representation. We propose a two-stage approach to predicting MS inflammatory disease activity. First, a 3D segmentation network detects lesions, and a self-supervised algorithm extracts their image features. Second, the detected lesions are used to build a patient graph. The lesions act as nodes in the graph and are initialized with image features extracted in the first stage. Finally, the lesions are connected based on their spatial proximity, and the inflammatory disease activity prediction is formulated as a graph classification task. Furthermore, we propose a self-pruning strategy to auto-select the most critical lesions for prediction. 
 
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_22) | [[Code]](https://github.com/chinmay5/ms_ida)
