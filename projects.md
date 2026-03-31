@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
+# TimeFlow
+![TimeFlow](/assets/timeflow.png)
+
+Longitudinal analysis of brain MRI is important for studying normal aging and detecting disease-related change, but existing registration methods often require densely sampled scans, struggle to balance accuracy with temporal consistency, and cannot reliably predict future anatomy. We present *TimeFlow,* a learning-based framework that models brain anatomy as a continuous function of age using a temporally conditioned U-Net. From only two scans per individual, *TimeFlow* estimates accurate and temporally consistent non-linear deformations and can extrapolate to forecast future brain states.
+
+[[Paper]](https://ieeexplore.ieee.org/document/11437527) | [[Code]](https://bailiangj.github.io/TimeFlow/)
+
+***
+
 # Rank-INR
 ![Rank-INR](/assets/muon-inr.png)
 
