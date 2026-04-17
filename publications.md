@@ -6,6 +6,10 @@ permalink: /publications/
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
 
+**Jian B**, Pan J, Li Y, Bongratz F, Li R, Rueckert D, **Wiestler B**\*, Wachinger C*.  
+[Temporal Conditioning for Longitudinal Brain MRI Registration and Aging Analysis](https://ieeexplore.ieee.org/document/11437527)  
+IEEE TMI, 2026
+
 **McGinnis J**, Shit S, Hoelzl A, Friedrich P, Bueschl P, Sideri-Lampretsa V, Muehlau M, Cattin PC, Menze BH, Rueckert D, **Wiestler B.**  
 [Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens](https://openreview.net/forum?id=REEdaR0zqj)  
 ICLR, 2026
