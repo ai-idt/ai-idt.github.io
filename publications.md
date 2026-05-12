@@ -9,8 +9,6 @@ permalink: /publications/
 [Optimizing Rank for High-Fidelity Implicit Neural Representations](https://icml.cc/virtual/2026/poster/66563)  
 ICML, 2026
 
-Julian McGinnis ⋅ Florian A Hölzl ⋅ Suprosanna Shit ⋅ Florentin Bieder ⋅ Paul Friedrich ⋅ Mark Mühlau ⋅ bjoern menze ⋅ Daniel Rueckert ⋅ Benedikt Wiestler 
-
 **Jian B**, Pan J, Li Y, Bongratz F, Li R, Rueckert D, **Wiestler B**\*, Wachinger C*.  
 [Temporal Conditioning for Longitudinal Brain MRI Registration and Aging Analysis](https://ieeexplore.ieee.org/document/11437527)  
 IEEE TMI, 2026
