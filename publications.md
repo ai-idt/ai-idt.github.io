@@ -5,12 +5,17 @@ permalink: /publications/
 ---
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
+**McGinnis J**, Hoelzl F, Shit S, Bieder F, Friedrich P, Muehlau M, Menze BH, Rueckert D, **Wiestler B.**  
+[Optimizing Rank for High-Fidelity Implicit Neural Representations](https://icml.cc/virtual/2026/poster/66563)  
+ICML, 2026
+
+Julian McGinnis ⋅ Florian A Hölzl ⋅ Suprosanna Shit ⋅ Florentin Bieder ⋅ Paul Friedrich ⋅ Mark Mühlau ⋅ bjoern menze ⋅ Daniel Rueckert ⋅ Benedikt Wiestler 
 
 **Jian B**, Pan J, Li Y, Bongratz F, Li R, Rueckert D, **Wiestler B**\*, Wachinger C*.  
 [Temporal Conditioning for Longitudinal Brain MRI Registration and Aging Analysis](https://ieeexplore.ieee.org/document/11437527)  
 IEEE TMI, 2026
 
-**McGinnis J**, Shit S, Hoelzl A, Friedrich P, Bueschl P, Sideri-Lampretsa V, Muehlau M, Cattin PC, Menze BH, Rueckert D, **Wiestler B.**  
+**McGinnis J**, Shit S, Hoelzl F, Friedrich P, Bueschl P, Sideri-Lampretsa V, Muehlau M, Cattin PC, Menze BH, Rueckert D, **Wiestler B.**  
 [Beyond Uniformity: Regularizing Implicit Neural Representations through a Lipschitz Lens](https://openreview.net/forum?id=REEdaR0zqj)  
 ICLR, 2026
 
