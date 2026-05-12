@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
+# Inpainting Physics
+![InpaintingPhysics](/assets/InpaintingPhysics.png)
+
+Neural surrogate models for CFD usually learn to map explicit inputs, such as geometry and boundary conditions, to solution fields, limiting their reuse when boundary conditions shift or local geometry changes. We reformulate steady CFD inference as an inpainting problem: a self-supervised prior over velocity fields is learned, while boundary constraints are imposed only at inference by fixing known regions, such as inlets, outlets, or unchanged simulation context. Our results suggest that viewing CFD inference as context-conditioned inpainting can turn neural surrogates from task-specific predictors into reusable flow priors.
+
+[[Paper]](https://arxiv.org/abs/2605.08832) | [[Code]](https://jonasw247.github.io/inpainting-physics/)
+
+***
+
 # TimeFlow
 ![TimeFlow](/assets/timeflow.png)
 
