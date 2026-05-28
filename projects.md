@@ -28,7 +28,7 @@ Longitudinal analysis of brain MRI is important for studying normal aging and de
 Implicit Neural Representations (INRs) based on vanilla Multi-Layer Perceptrons (MLPs) are widely believed to be incapable of representing high-frequency content. This has directed research efforts towards architectural interventions, such as coordinate embeddings or specialized activation functions.
 Here, we challenge the notion that the low-frequency bias of vanilla MLPs is an intrinsic, architectural limitation, but instead a symptom of stable rank degradation during training. We empirically demonstrate that regulating the network's rank during training substantially improves the fidelity of the learned signal, rendering even simple MLP architectures expressive.
 
-[[Paper]](https://arxiv.org/abs/2512.14366) | [[Code]](https://muon-inrs.github.io/)
+[[Paper]](https://icml.cc/virtual/2026/poster/66563) | [[Code]](https://rank-inrs.github.io/)
 
 ***
 
