@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Selected papers from our group, highlighting key contributions and interdisciplinary collaborations.  
-Pan J*, **Jian B**\*, Hager P, Zhang Y, Liu C, Jungmann F, Li HB, Canisius J, You C, Wu J, Zhu J, Liu F, Liu Y, Bubeck N, Knolle M, Chen C, Wachinger C, Gong Z, Ouyang C*, Kaissis G*, **Wiestler B**\*, Rueckert D*.  
+Pan J\*, **Jian B**\*, Hager P, Zhang Y, Liu C, Jungmann F, Li HB, Canisius J, You C, Wu J, Zhu J, Liu F, Liu Y, Bubeck N, Knolle M, Chen C, Wachinger C, Gong Z, Ouyang C\*, Kaissis G\*, **Wiestler B**\*, Rueckert D\*.  
 [Addressing Benchmarking Gaps in Large Language Models for Health and Medicine with Dynamic Red-Teaming](https://www.nature.com/articles/s44360-026-00152-8)  
 Nature Health, 2026
 
