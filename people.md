@@ -8,8 +8,7 @@ permalink: /people/
 - [Prof. Dr. Benedikt Wiestler](/assets/CV.pdf)
 
 ## Scientists
-- Cosmin Bercea, PhD
-- Bailiang Jiang, PhD student
+- Bailiang Jian, PhD student
 - Julian McGinnis, PhD student
 - Marie Metz, MD
 - Sandeep Nagar, PhD
@@ -19,7 +18,6 @@ permalink: /people/
 - Jonas Weidner, PhD student
 - Marco Wittrich, PhD student
 - Sami Yavuz, PhD student
-- Julian Ziegenfeuter, MD student
 
 ## Research Partners
 - Prof. Shadi Albarqouni, University of Bonn
@@ -29,7 +27,7 @@ permalink: /people/
 - Prof. Bjoern Menze, UZH DQBM
 - Prof. Mark Muehlau, TUM Neurology
 - Prof. Nassir Navab, TUM CAMP
-- PD Dr. Jan Peeken, TUM Radiation Oncology
+- Prof. Jan Peeken, TUM Radiation Oncology
 - Dr. Franz Pfister, deepc GmbH
 - Prof. Alexander Radbruch, University of Bonn
 - Prof. Daniel Rueckert, TUM AIMLab
