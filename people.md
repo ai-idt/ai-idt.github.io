@@ -8,16 +8,15 @@ permalink: /people/
 - [Prof. Dr. Benedikt Wiestler](/assets/CV.pdf)
 
 ## Scientists
-- Bailiang Jian, PhD student
+- Sophia Gaupp, PhD student
 - Julian McGinnis, PhD student
 - Marie Metz, MD
 - Sandeep Nagar, PhD
 - Camillo Saueressig, PhD student
-- Daniel Scholz, PhD student
-- Aswathi Varma, PhD student
 - Jonas Weidner, PhD student
 - Marco Wittrich, PhD student
 - Sami Yavuz, PhD student
+- Lucas Zimmer, PhD student
 
 ## Research Partners
 - Prof. Shadi Albarqouni, University of Bonn
