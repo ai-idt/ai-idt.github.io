@@ -3,6 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
+- Sami's paper ["MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention"](https://arxiv.org/abs/2609.21811) won Best Poster Award at MICCAI COMPAYL.
+
 - Three papers from our lab are accepted at NeurIPS 2026 - congratulations to everybody involved.
 
 - Julian's work on [Lipschitz regularization of INRs](https://lipschitz-inrs.github.io/) is accepted at ICLR 2026.
