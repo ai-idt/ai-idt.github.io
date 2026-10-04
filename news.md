@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-- Sami's paper ["MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention"](https://arxiv.org/abs/2609.21811) won Best Poster Award at MICCAI COMPAYL.
+- Sami's paper ["MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention"](https://arxiv.org/abs/2609.21811) wins Best Poster Award at MICCAI COMPAYL.
 
 - Three papers from our lab are accepted at NeurIPS 2026 - congratulations to everybody involved.
 
