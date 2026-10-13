@@ -23,6 +23,7 @@ permalink: /people/
 - Prof. Spyridon Bakas, Indiana University
 - Prof. Stephanie Combs, TUM Radiation Oncology
 - Prof. Jan Kirschke, TUM Neuroradiology
+- Dr. Florian Kofler, Hertie Institute for AI in Brain Health
 - Prof. Bjoern Menze, UZH DQBM
 - Prof. Mark Muehlau, TUM Neurology
 - Prof. Nassir Navab, TUM CAMP
