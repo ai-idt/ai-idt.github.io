@@ -9,6 +9,18 @@ permalink: /people/
 
 ## Scientists
 - Sophia Gaupp, PhD student
+<details>
+  <summary>Bio & Research Focus</summary>
+  <div markdown="1">
+
+Dr. Jane Doe received her Ph.D. in Computer Science. Her research focuses on **autonomous laboratory workflows** and **multi-agent decision making**.
+
+- **Focus:** AI-driven synthesis, Lab Automation
+- **Background:** Postdoc at Oxford (2022–2024), Ph.D. at MIT
+- **Links:** [Google Scholar](#) | [GitHub](#) | [Twitter/X](#)
+
+  </div>
+</details>
 - Julian McGinnis, PhD student
 - Marie Metz, MD
 - Sandeep Nagar, PhD
