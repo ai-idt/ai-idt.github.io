@@ -10,7 +10,7 @@ permalink: /people/
 
 **Bio:** Benedikt studied medicine at the Universities of Bonn and Heidelberg. In 2011, he received his doctorate from the University of Heidelberg on molecular mechanisms of glioma invasion and then conducted postdoctoral research at the German Cancer Research Center in Heidelberg. In 2018, he habilitated at TUM and, in 2020, became a senior physician at the Institute for Diagnostic and Interventional Neuroradiology. In 2024, he was appointed to the professorship "AI for Image-Guided Diagnosis and Therapy" at TUM.
 
-**Contact / Links:** [CV](/assets/CV.pdf) | [Google Scholar](https://scholar.google.com)
+**Contact / Links:** [CV](/assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=-EEm-_MAAAAJ&hl=en)
 </details>
 
 ## Scientists
