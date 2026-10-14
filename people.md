@@ -5,30 +5,122 @@ permalink: /people/
 ---
 
 ## Group Leader
-- [Prof. Dr. Benedikt Wiestler](/assets/CV.pdf)
+<details markdown="1">
+<summary>Prof. Dr. Benedikt Wiestler</summary>
+
+**Bio:** Benedikt studied medicine at the Universities of Bonn and Heidelberg. In 2011, he received his doctorate from the University of Heidelberg on molecular mechanisms of glioma invasion and then conducted postdoctoral research at the German Cancer Research Center in Heidelberg. In 2018, he habilitated at TUM and, in 2020, became a senior physician at the Institute for Diagnostic and Interventional Neuroradiology. In 2024, he was appointed to the professorship "AI for Image-Guided Diagnosis and Therapy" at TUM.
+
+**Contact / Links:** [CV](/assets/CV.pdf) | [Google Scholar](https://scholar.google.com)
+</details>
 
 ## Scientists
-- Sophia Gaupp, PhD student
-<details>
-  <summary>Bio & Research Focus</summary>
-  <div markdown="1">
+<details markdown="1">
+<summary>Sophia Gaupp, PhD student</summary>
 
-Dr. Jane Doe received her Ph.D. in Computer Science. Her research focuses on **autonomous laboratory workflows** and **multi-agent decision making**.
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
 
-- **Focus:** AI-driven synthesis, Lab Automation
-- **Background:** Postdoc at Oxford (2022–2024), Ph.D. at MIT
-- **Links:** [Google Scholar](#) | [GitHub](#) | [Twitter/X](#)
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
 
-  </div>
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
 </details>
-- Julian McGinnis, PhD student
-- Marie Metz, MD
-- Sandeep Nagar, PhD
-- Camillo Saueressig, PhD student
-- Jonas Weidner, PhD student
-- Marco Wittrich, PhD student
-- Sami Yavuz, PhD student
-- Lucas Zimmer, PhD student
+
+<details markdown="1">
+<summary>Julian McGinnis, PhD student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Marie Metz, MD</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Sandeep Nagar, PhD</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Camillo Saueressig, PhD Student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Jonas Weidner, PhD Student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Marco Wittrich, PhD Student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Sami Yavuz, PhD Student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
+
+<details markdown="1">
+<summary>Lucas Zimmer, PhD Student</summary>
+
+**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+
+**Current Projects:**
+* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
+* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
+
+**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+</details>
 
 ## Research Partners
 - Prof. Shadi Albarqouni, University of Bonn
