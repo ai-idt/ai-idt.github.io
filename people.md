@@ -30,7 +30,7 @@ permalink: /people/
 
 **Research:** Julian works on foundational ML research (in particular, INR optimization) and also on agentic medical image analysis.
 
-**Links:** [Google Scholar](https://scholar.google.com/citations?user=hy6MSk4AAAAJ) | [Personal Website]https://jqmcginnis.github.io/)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=hy6MSk4AAAAJ) | [Personal Website](https://jqmcginnis.github.io/)
 </details>
 
 <details markdown="1">
