@@ -10,20 +10,17 @@ permalink: /people/
 
 **Bio:** Benedikt studied medicine at the Universities of Bonn and Heidelberg. In 2011, he received his doctorate from the University of Heidelberg on molecular mechanisms of glioma invasion and then conducted postdoctoral research at the German Cancer Research Center in Heidelberg. In 2018, he habilitated at TUM and, in 2020, became a senior physician at the Institute for Diagnostic and Interventional Neuroradiology. In 2024, he was appointed to the professorship "AI for Image-Guided Diagnosis and Therapy" at TUM.
 
-**Contact / Links:** [CV](/assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=-EEm-_MAAAAJ&hl=en)
-</details>
+**Links:** [CV](/assets/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=-EEm-_MAAAAJ&hl=en)
+</details>   
+
 
 ## Scientists
 <details markdown="1">
 <summary>Sophia Gaupp, PhD student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Sophia is working on translating computational image analysis into clinical use, connecting longitudinal assessment, robust anomaly detection, and captioning.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [LinkedIn](https://de.linkedin.com/in/sophiagaupp)
 </details>
 
 <details markdown="1">
@@ -120,7 +117,8 @@ permalink: /people/
 * **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
 
 **Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
-</details>
+</details>   
+
 
 ## Research Partners
 - Prof. Shadi Albarqouni, University of Bonn
