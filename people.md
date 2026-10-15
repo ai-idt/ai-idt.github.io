@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+![GroupPicture](/assets/GroupPicture.jpg)
+
 ## Group Leader
 <details markdown="1">
 <summary>Prof. Dr. Benedikt Wiestler</summary>
@@ -26,97 +28,62 @@ permalink: /people/
 <details markdown="1">
 <summary>Julian McGinnis, PhD student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Julian works on foundational ML research (in particular, INR optimization) and also on agentic medical image analysis.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=hy6MSk4AAAAJ) | [Personal Website]https://jqmcginnis.github.io/)
 </details>
 
 <details markdown="1">
 <summary>Marie Metz, MD</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Marie is an MD and connects methodological developments in our lab (and beyond) with clinical application in neuro-oncology.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
 </details>
 
 <details markdown="1">
 <summary>Sandeep Nagar, PhD</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Sandeep works on efficient compression and tokenization of medical imaging data for downstream applications such as generative AI models.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en) | [Personal Website](https://naagar.github.io/)
 </details>
 
 <details markdown="1">
 <summary>Camillo Saueressig, PhD Student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
-
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Research:** Camillo works on multimodal integration of radiology (MRI) and pathology (WSI) data for improved brain tumor classification.
 </details>
 
 <details markdown="1">
 <summary>Jonas Weidner, PhD Student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Jonas works on physical AI and tumor growth modeling, combining physics- and data-driven approaches.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=bRLjGLgAAAAJ) | [LinkedIn](https://de.linkedin.com/in/jonas-weidner)
 </details>
 
 <details markdown="1">
 <summary>Marco Wittrich, PhD Student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Marco works on advancing and translating tumor growth models into clinical use.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [LinkedIn](https://de.linkedin.com/in/marco-wittrich)
 </details>
 
 <details markdown="1">
 <summary>Sami Yavuz, PhD Student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Sami works on multimodal (imaging, histology, omics) data integration and pan-cancer analysis.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [LinkedIn](https://de.linkedin.com/in/samiyavuz)
 </details>
 
 <details markdown="1">
 <summary>Lucas Zimmer, PhD Student</summary>
 
-**Bio:** Alex completed their Ph.D. at TU Munich in 2023. Their work focuses on trustworthy machine learning and human-in-the-loop AI systems.
+**Research:** Lucas works on the foundations of tumor growth modeling, including multi-species and treatment modeling, towards more realistic, "treatable" digital twin models of brain tumors.
 
-**Current Projects:**
-* **Robust Vision Models:** Improving out-of-distribution performance in clinical settings.
-* **Explainable AI:** Developing interpretable attention heatmaps for diagnostic tools.
-
-**Contact / Links:** [Google Scholar](https://scholar.google.com) | [Personal Website](https://example.com)
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=3bZIF3kAAAAJ&hl=en)
 </details>   
 
 
