@@ -7,7 +7,7 @@ permalink: /news/
 
 - Three papers from our lab are accepted at NeurIPS 2026 - congratulations to everybody involved.
 
-- Julian's work on [Lipschitz regularization of INRs](https://lipschitz-inrs.github.io/) is accepted at ICLR 2026.
+- Julian's work on [Lipschitz regularization of INRs](https://lipschitz-inrs.github.io/) is accepted at ICLR 2026, and his study on [Rank optimization for INS](https://rank-inrs.github.io/) at ICML 2026.
 
 - [LST-AI](https://www.sciencedirect.com/science/article/pii/S2213158224000500) is selected as "Paper of the Year" by NeuroImage: Clinical.
 
