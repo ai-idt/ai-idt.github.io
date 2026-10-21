@@ -3,6 +3,14 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# TumorFlow
+![TumorFlow](/assets/TumorFlow.png)
+
+Glioblastoma exhibits complex, infiltrative growth patterns that are only partially visible on routine MRI, making it difficult to accurately evaluate true tumor extent and tailor patient treatment. Here, we introduce *TumorFlow*, a biophysically conditioned generative framework that synthesizes realistic 3D brain MRI scans from spatially continuous tumor concentration fields while preserving native patient anatomy. By combining generative modeling with a mechanistic biophysical growth model, the system propagates infiltration maps over time to simulate controllable, interpretable tumor progression directly within patient imaging space.
+
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-38172-9_64) | [[Code]](https://github.com/valentin-biller/lgm)
+
+***
 
 # Inpainting Physics
 ![InpaintingPhysics](/assets/InpaintingPhysics.png)
